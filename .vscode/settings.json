@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  }
+}
